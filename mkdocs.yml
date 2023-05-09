@@ -1,0 +1,10 @@
+site_name: Origami Lab Handbook
+theme:
+  name: material
+
+repo_url: https://github.com/neurodatascience/handbook
+
+nav:
+  - The Lab: index.md
+  - How do I: how_do_i.md
+  - Nice things in Montreal: montreal.md
